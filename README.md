@@ -58,3 +58,6 @@ See the [LICENSE](LICENSE) file for the full text of the MIT License.
 ## Acknowledgments
 The project was conducted with the collaboration of Federico Paschetta, a colleague, whose contributions were invaluable.
 
+## Contact
+If you have any questions, suggestions, or feedback, feel free to reach out to us at [peccolo.cecilia00@gmail.com].
+
