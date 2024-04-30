@@ -4,11 +4,11 @@
 This repository contains a comprehensive exploration of various neural network architectures for a project focused on image classification. The main folder encompasses subfolders representing different architectures experimented with during the project's development. Additionally, there's a report file summarizing the findings and outcomes.
 
 ### 1. Architecture Subfolders:
-- FFNN: This subfolder holds experiments conducted using Feedforward Neural Networks (FFNNs). These models are designed with fully connected layers and were one of the initial approaches explored.
-- CNN: Here, Convolutional Neural Networks (CNNs) are investigated. CNNs are specialized for image-related tasks, leveraging convolutional layers to automatically learn features from input images.
-- Transfer Learning: This subfolder contains experiments utilizing transfer learning, a technique where a pre-trained model is adapted to a new task. This approach often leads to faster convergence and better performance, especially with limited data.
+- **FFNN**: This subfolder holds experiments conducted using Feedforward Neural Networks (FFNNs). These models are designed with fully connected layers and were one of the initial approaches explored.
+- **CNN**: Here, Convolutional Neural Networks (CNNs) are investigated. CNNs are specialized for image-related tasks, leveraging convolutional layers to automatically learn features from input images.
+- **Transfer Learning**: This subfolder contains experiments utilizing transfer learning, a technique where a pre-trained model is adapted to a new task. This approach often leads to faster convergence and better performance, especially with limited data.
 ### 2. Report File:
-Report.pdf: This document serves as a comprehensive report detailing the methodologies, experiments, results, and conclusions drawn from the project. It encapsulates the insights gained from the exploration of various architectures and hyperparameters.
+**Report.pdf**: This document serves as a comprehensive report detailing the methodologies, experiments, results, and conclusions drawn from the project. It encapsulates the insights gained from the exploration of various architectures and hyperparameters.
 
 ## Experimentation Approach:
 Throughout the project, different architectures were applied to the dataset, and their performance was evaluated in light of advancements in class understanding. Each architecture's experimentation involved iteratively adjusting hyperparameters based on insights gleaned from previous experiments and new knowledge acquired from the professor's teachings.
@@ -23,10 +23,10 @@ The dataset utilized in this study originates from the xView Recognition Challen
 The dataset consists of two main components: a training set and a test set, each comprising satellite images showcasing a wide array of transportation vehicles and buildings. The images are annotated with bounding boxes delineating the boundaries of objects belonging to twelve distinct categories. These categories encompass different types of transportation vehicles and buildings commonly encountered in satellite imagery, including but not limited to buildings, vehicles, and industrial structures.
 The twelve categories present in the dataset are: Building, Small Car, Bus, Truck, Cargo Plane, Dump Truck, Excavator, Fishing Vessel, Helicopter, Motorboat, Shipping Container, Storage Tank.
 
-**Usage:**
+## Usage:
 
 1. **Download the Repository:**
-   - Download or clone the repository from [Cechup Dashboard](https://cechup.com/dashboard/Image-classification-for-xView-Recognition-Challenge).
+   - Download or clone the repository from [Cechup Dashboard](https://github.com/cechup/-Image-classification-for-xView-Recognition-Challenge).
 
 2. **Install Required Libraries:**
    - Ensure you have Python installed on your system.
