@@ -27,7 +27,7 @@ This project requires Python 3.10, as well as the following main packages:
 - sklearn
 - Keras
 - NumPy
-- Matplotlib \
+- Matplotlib 
 
 All the libraries used in the project can be found in **requirements.txt**.
 
