@@ -31,6 +31,7 @@ This project requires Python 3.10, as well as the following main packages:
 
 All the libraries used in the project can be found in **requirements.txt**.
 
+### Usage Instructions:
 1. **Download the Repository:**
 Download or clone the repository from [Cechup Dashboard](https://github.com/cechup/-Image-classification-for-xView-Recognition-Challenge). Explore the Jupyter notebooks contained within each architecture's folder. The notebooks are self-contained and include comments explaining each step of the process.
 
@@ -59,5 +60,5 @@ See the [LICENSE](LICENSE) file for the full text of the MIT License.
 The project was conducted with the collaboration of Federico Paschetta, a colleague, whose contributions were invaluable.
 
 ## Contact
-If you have any questions, suggestions, or feedback, feel free to reach out to us at [peccolo.cecilia00@gmail.com].
+If you have any questions, suggestions, or feedback, feel free to reach out to us at peccolo.cecilia00@gmail.com.
 
