@@ -1,0 +1,6 @@
+rasterio
+tensorflow
+scikit-learn
+numpy
+matplotlib
+keras
