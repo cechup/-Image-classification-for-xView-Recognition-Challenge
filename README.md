@@ -15,7 +15,7 @@ Throughout the project, different architectures were applied to the dataset, and
 
 ## Dataset
 The dataset utilized in this study originates from the xView Recognition Challenge, a renowned competition in the field of computer vision aimed at advancing the state-of-the-art in satellite image analysis. Due to its size, the dataset is not contained within this repository. Instead, users are required to download it separately.
-**Data usage**
+### Data usage
 1. Download the dataset zip file from [xView Recognition Challenge](http://xviewdataset.org/#dataset).
 2. Upload the zip file to your Google Drive in the "MyDrive" directory.
 3. Open each Python file in Google Colab.
