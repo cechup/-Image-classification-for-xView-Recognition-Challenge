@@ -8,7 +8,6 @@ This repository contains a comprehensive exploration of various neural network a
 - **Transfer Learning**: This subfolder contains experiments utilizing transfer learning, a technique where a pre-trained model is adapted to a new task. This approach often leads to faster convergence and better performance, especially with limited data.
 ### 2. Report File:
 **Report.pdf**: This document serves as a comprehensive report detailing the methodologies, experiments, results, and conclusions drawn from the project. It encapsulates the insights gained from the exploration of various architectures and hyperparameters.
-### 3. Requirements File:
 
 
 ## Experimentation Approach:
